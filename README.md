@@ -124,4 +124,4 @@ We thank them for granting Baritone an OSS license so that we can make our softw
 
 ## Why is it called Baritone?
 
-It's named for FitMC's deep sultry voice.
+It's named for FitMC's deep sultry voice. THE OLDEST ANARCHY SERVER IN MINECRAFT
