@@ -11,6 +11,7 @@
   <a href="https://github.com/cabaletta/baritone/tree/1.16.5"><img src="https://img.shields.io/badge/MC-1.16.5-brightgreen.svg" alt="Minecraft"/></a>
   <a href="https://github.com/cabaletta/baritone/tree/1.17.1"><img src="https://img.shields.io/badge/MC-1.17.1-brightgreen.svg" alt="Minecraft"/></a>
   <a href="https://github.com/cabaletta/baritone/tree/1.18.2"><img src="https://img.shields.io/badge/MC-1.18.2-brightgreen.svg" alt="Minecraft"/></a>
+  <a href="https://github.com/cabaletta/baritone/tree/1.18.2"><img src="https://img.shields.io/badge/MC-1.19-brightgreen.svg" alt="Minecraft"/></a>
 </p>
 
 <p align="center">
